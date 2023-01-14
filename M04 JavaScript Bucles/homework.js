@@ -184,9 +184,9 @@ function doWhile(num) {
    // Utilizar el bucle Do-While.
    // Tu código:
      do {
-      num = (num + 5)
-     } while (num < 45 )
-     return num 
+      resultado = (num + 5)
+     } while (resultado < ((num+ 5) * 8) )
+     return resultado 
 }
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
