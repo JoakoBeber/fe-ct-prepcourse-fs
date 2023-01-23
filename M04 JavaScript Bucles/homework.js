@@ -183,12 +183,13 @@ function doWhile(num) {
    // Retornar el valor final.
    // Utilizar el bucle Do-While.
    // Tu código:
-     do {
-      resultado = (num + 5)
-     } while (resultado < ((num+ 5) * 8) )
-     return resultado 
+  let i = 0;
+  do {
+   num = num + 5;
+   i++;
+  } while (i <=7);
+  return num ;
 }
-
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
 module.exports = {
    obtenerMayor,
