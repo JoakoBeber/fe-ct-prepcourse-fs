@@ -42,4 +42,4 @@ No es obligatorio que desacargues este aplicación en tu computadora, pero te se
 
 No es necesario que descargues esta aplicación para utilizar GitHub. Simplemente puedes utilizar la versión web. Pero si quieres acelerar los procesos te dejamos el link de desacarga!
 
-[**LINK DE DESACRGA**](https://desktop.github.com/)
+[**LINK DE DESACRGA**](https://desktop.github.com/) 
