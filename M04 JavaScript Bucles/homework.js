@@ -188,7 +188,7 @@ function doWhile(num) {
    num = num + 5;
    i++;
   } while (i <=7);
-  return num ;
+  return num ; 
 }
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
 module.exports = {
